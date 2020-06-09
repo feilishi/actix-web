@@ -1,5 +1,11 @@
 # Changes
 
+## [Unreleased]
+
+### Changed
+
+* Migrate cookie handling to `cookie` crate. Actix-web no longer requires `ring` dependency.
+
 ## [3.0.0-alpha.3] - 2020-05-21
 
 ### Added

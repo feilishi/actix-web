@@ -1,5 +1,12 @@
 # Changes
 
+## [Unreleased]
+
+### Added
+
+* `HttpRequest::match_pattern` and `ServiceRequest::match_pattern` for extracting the matched
+  resource pattern.
+
 ## [3.0.0-alpha.3] - 2020-05-21
 
 ### Added
